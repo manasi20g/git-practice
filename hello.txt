@@ -5,3 +5,5 @@ Learning Git hands-on!
 This change is from the feature branch.
 
 Now I am learning Git and Github! 
+
+This change was made directly on GitHub.
