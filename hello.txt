@@ -1,1 +1,3 @@
 Hello, This is my Git Practice Project!!
+
+Learning Git hands-on!
